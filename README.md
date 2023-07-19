@@ -1,5 +1,5 @@
 # Python_Data_Science_Handbook
-<p>If you want to learn <B>"DATA SCIENCE"</B> with Python, this book is a fantastic starting point. </p>
+<p>If you want to learn <B>"DATA SCIENCE"</B> with Python, this book is a fantastic starting point.</p>
 <h3>Introduction to the "Python Data Science Handbook"</h3>
 
 <p>Welcome to the "Python Data Science Handbook"! This book serves as your comprehensive guide to using Python for data science, providing you with the tools and knowledge needed to explore, analyze, and gain valuable insights from your data. Whether you're a seasoned data scientist or a curious beginner, this book is designed to empower you with the skills required to tackle real-world data challenges using Python.</p>
